@@ -1,0 +1,10 @@
+{
+  "db": {
+    "uri": "sqlite::memory:"
+  },
+  "files": {
+    "movies": "res/movies.txt",
+    "customers": "res/customers.txt",
+    "actions": "res/commands.txt"
+  }
+}
